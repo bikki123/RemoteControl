@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "377337879497",
+    "firebase_url": "https://remote-contol-f21a7.firebaseio.com",
+    "project_id": "remote-contol-f21a7",
+    "storage_bucket": "remote-contol-f21a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377337879497:android:c08cd27974e75ff0",
+        "android_client_info": {
+          "package_name": "com.example.android.remotecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377337879497-rdg8fidhfjcullr7e9e7ba0ajvvqq3ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.remotecontrol",
+            "certificate_hash": "78ddaf061eaef91e72644231f42289e24fb69eac"
+          }
+        },
+        {
+          "client_id": "377337879497-vukkomj1q6i63a48ihnbcq1tiat2v174.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9p8Xj4jDZU_rbLsnDHfnz8pX8p2H-2iQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377337879497-vukkomj1q6i63a48ihnbcq1tiat2v174.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

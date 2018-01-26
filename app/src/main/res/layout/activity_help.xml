@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.remotecontrol.HelpActivity">
+
+    <TextView
+        android:padding="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="16dp"
+        android:textColor="#000"
+        android:text="1. The three switches are wired to the firebase backend database.\n\n
+2. The switch toggle is synced in realtime with the database.\n\n
+3. In the database\n
+    true : denotes the switch is On\n
+    false : denotes the switch is Off"/>
+
+
+
+</LinearLayout>
